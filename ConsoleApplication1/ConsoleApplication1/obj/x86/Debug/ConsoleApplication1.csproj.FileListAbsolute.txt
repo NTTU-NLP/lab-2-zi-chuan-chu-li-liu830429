@@ -1,0 +1,5 @@
+D:\lab-2-zi-chuan-chu-li-liu830429\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\lab-2-zi-chuan-chu-li-liu830429\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\lab-2-zi-chuan-chu-li-liu830429\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\lab-2-zi-chuan-chu-li-liu830429\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+D:\lab-2-zi-chuan-chu-li-liu830429\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
